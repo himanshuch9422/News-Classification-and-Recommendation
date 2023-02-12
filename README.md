@@ -1,2 +1,2 @@
 # News-Classification-and-Recommendation
-A web app for news using naive-bayes classifier
+A web application for news classification and Recommendation using Naive-Bayes classifier
